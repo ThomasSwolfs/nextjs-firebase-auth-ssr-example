@@ -16,3 +16,4 @@ http://localhost:3000/signin -> example signin page
 http://localhost:3000/user -> example authentication check in 'getServerSideProps'
 
 ### Example explained in medium post:
+https://medium.com/@thomasswolfs/next-js-firebase-authentication-including-ssr-1045b097ee18
