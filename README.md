@@ -11,4 +11,8 @@ Create an .env file, based on .env example. Fill out your Firebase project prope
 
 npm run dev
 
+
+http://localhost:3000/signin -> example signin page
+http://localhost:3000/user -> example authentication check in 'getServerSideProps'
+
 ### Example explained in medium post:
