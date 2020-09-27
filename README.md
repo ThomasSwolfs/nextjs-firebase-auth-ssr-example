@@ -2,7 +2,7 @@
 Next.js example with firebase authentication. Including authentication check at SSR.
 
 
-#How to user
+# How to use
 npm install
 
 Set up a firebase project
@@ -11,4 +11,4 @@ Create an .env file, based on .env example. Fill out your Firebase project prope
 
 npm run dev
 
-###Example explained in medium post:
+### Example explained in medium post:
